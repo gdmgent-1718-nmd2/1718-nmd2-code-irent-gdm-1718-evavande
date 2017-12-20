@@ -3,3 +3,46 @@
 @charset "UTF-8";
 
 @import "main";
+
+.card{
+    background-color: white;
+    margin-bottom: 2rem;
+    margin-left: 10px;
+    border: 0;
+}
+
+body{
+    font-family: Roboto, sans-serif;
+    font-size: 17px;
+    line-height: 140%;
+    background-color: rgb(229,213,197);
+    color: rgb(120,120,120);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 0; 
+    font-size: 17px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    text-align: center;
+    color: rgb(225,82,0);
+    font-weight: bold;
+}
+
+h3{
+    color: rgb(120,120,120);
+    text-align: left;
+    margin-bottom: 15px;
+    margin-top: 30px;
+}
+
+p {
+    margin-bottom: 0; 
+}
+
+article{
+    margin-top: 55px;
+    margin-bottom: 55px;
+    margin-left: 65px;
+    margin-right: 65px;
+}
